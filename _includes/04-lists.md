@@ -1,5 +1,8 @@
-- Football
-- Programming
+- Machine Learning
+- Backend Web Development
+- Android development
+- Data Scraping
+- Image Processing
+- Playing Football
+- Cooking
 - Gaming
-- Visiting New Countries
-- Social Meadia
