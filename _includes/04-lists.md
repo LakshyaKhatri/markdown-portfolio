@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- Football
+- Programming
+- Gaming
+- Visiting New Countries
+- Social Meadia
