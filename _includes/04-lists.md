@@ -1,0 +1,8 @@
+- Machine Learning
+- Backend Web Development
+- Android development
+- Data Scraping
+- Image Processing
+- Playing Football
+- Cooking
+- Gaming
